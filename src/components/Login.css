@@ -1,0 +1,15 @@
+.image{
+    min-height:100vh;
+    background-image:url("bg image.jpg");
+    background-repeat:no-repeat;
+    background-position:cover;
+    background-size:center;
+}
+
+.login{
+    background-color:
+    #000000b3;
+}
+
+
+
